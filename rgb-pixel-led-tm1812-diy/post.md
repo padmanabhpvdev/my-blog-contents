@@ -35,7 +35,7 @@ The TM1812 is an integrated circuit designed specifically for LED driving. Unlik
   - **Channels 3 & 4**: Controlled via pins 3-8. The LEDs are wired in a Common Anode configuration, where the positive terminals are tied to the +5V rail and the TM1812 sinks the current to ground to light them up.
 
 **3. Signal Integrity**
-  - **Resistors (R1, R2)**: 100$\Omega$ resistors are used on the data lines. These act as "termination resistors" to prevent signal reflections and protect the IC from voltage spikes over long data wires.
+  - **Resistors (R1, R2)**: 100Ω resistors are used on the data lines. These act as "termination resistors" to prevent signal reflections and protect the IC from voltage spikes over long data wires.
 
 #### **PCB Layout**
 ![Front View](https://raw.githubusercontent.com/padmanabhpvdev/my-blog-contents/main/rgb-pixel-led-tm1812-diy/TM1812(front).jpg)
