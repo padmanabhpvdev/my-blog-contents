@@ -45,3 +45,7 @@ The TM1812 is an integrated circuit designed specifically for LED driving. Unlik
 ![Back View](https://raw.githubusercontent.com/padmanabhpvdev/my-blog-contents/main/rgb-pixel-led-tm1812-diy/TM1812(bottom).jpg)
 
 *Bottom View of PCB Layout*
+
+You Can download the **Gerber** file of the following circuit from the button given below for FREE!
+
+[![Download ZIP](https://img.shields.io/badge/Download-ZIP-orange)](https://github.com/padmanabhpvdev/my-blog-contents/raw/main/rgb-pixel-led-tm1812-diy/.zip)
