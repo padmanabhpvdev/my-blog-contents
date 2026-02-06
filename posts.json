@@ -14,5 +14,13 @@
     "category": "Electronics",
     "desc": "Adding a VU Meter (Volume Unit Meter) to your custom amplifier is like giving it a heartbeat. It provides that classic visual feedback that makes a DIY audio project look truly professional.",
     "image": "https://raw.githubusercontent.com/padmanabhpvdev/my-blog-contents/main/lm3915-mono-bar-dot/LM3915(front).jpg"
+  },
+  {
+    "slug": "rgb-pixel-led-tm1812-diy",
+    "title": "DIY 4 RGB Pixel LED Driver",
+    "date": "2026-02-07",
+    "category": "Electronics",
+    "desc": "If you've ever worked with addressable LEDs, you're likely familiar with the WS2812B (NeoPixel). However, when your project demands higher density or control over multiple RGB clusters from a single chip, the TM1812 is a powerhouse worth exploring.",
+    "image": "https://raw.githubusercontent.com/padmanabhpvdev/my-blog-contents/main/rgb-pixel-led-tm1812-diy/TM1812-Pixel-Cover.jpg"
   }
 ]
