@@ -14,7 +14,7 @@ The TM1812 is an integrated circuit designed specifically for LED driving. Unlik
 ![TM1812 IC Pinout](https://www.hida-led.com/uploads/TM1812-IC-Componenets-for-RGBww-PIXEL-led-strip.jpg)
 
 #### **Circuit Diagram**
-![TM1812 LED Driver Circuit](TM1812(circuit).jpg)
+![TM1812 LED Driver Circuit](https://raw.githubusercontent.com/padmanabhpvdev/my-blog-contents/main/rgb-pixel-led-tm1812-diy/TM1812(circuit).jpg)
 
 ##### **Components Used**
 | Parts | Label | Quantity |
@@ -38,10 +38,10 @@ The TM1812 is an integrated circuit designed specifically for LED driving. Unlik
   - **Resistors (R1, R2)**: 100$\Omega$ resistors are used on the data lines. These act as "termination resistors" to prevent signal reflections and protect the IC from voltage spikes over long data wires.
 
 #### **PCB Layout**
-![Front View](TM1812(front).jpg)
+![Front View](https://raw.githubusercontent.com/padmanabhpvdev/my-blog-contents/main/rgb-pixel-led-tm1812-diy/TM1812(front).jpg)
 
 *Top View of PCB Layout*
 
-![Back View](TM1812(bottom).jpg)
+![Back View](https://raw.githubusercontent.com/padmanabhpvdev/my-blog-contents/main/rgb-pixel-led-tm1812-diy/TM1812(bottom).jpg)
 
 *Bottom View of PCB Layout*
