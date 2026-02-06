@@ -48,4 +48,4 @@ The TM1812 is an integrated circuit designed specifically for LED driving. Unlik
 
 You Can download the **Gerber** file of the following circuit from the button given below for FREE!
 
-[![Download ZIP](https://upload.wikimedia.org/wikipedia/commons/f/f3/Download.gif)](https://github.com/padmanabhpvdev/my-blog-contents/raw/main/rgb-pixel-led-tm1812-diy/Gerber_Pixel-Led-Driver-Simple_PCB_Pixel-Led-Driver-Simple_2026-02-06.zip)
+[![Download ZIP](https://www.pngarts.com/files/2/Download-Button-Transparent-Background-PNG.png)](https://github.com/padmanabhpvdev/my-blog-contents/raw/main/rgb-pixel-led-tm1812-diy/Gerber_Pixel-Led-Driver-Simple_PCB_Pixel-Led-Driver-Simple_2026-02-06.zip)
